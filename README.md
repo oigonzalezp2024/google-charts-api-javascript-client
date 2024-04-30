@@ -17,6 +17,6 @@ Recibe los datos como un objeto.
 > gráficos proporciona una gran cantidad de tipos de gráficos listos para usar."  
 > Fuente: https://developers.google.com/chart/interactive/docs?hl=es-419
 
-### Fuente estudiadas para el desarrollo:  
+### Fuente estudiada para el desarrollo:  
 <b>Google Charts - Inicio rápido:</b>  
 https://developers.google.com/chart/interactive/docs/quick_start?hl=es-419
