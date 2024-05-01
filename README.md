@@ -1,5 +1,5 @@
 # Google Charts API Javascript Client
-
+Adaptación del código de Google Charts para uso masivo en la generación de gráficos circulares. Recibe los datos como un objeto.
 El código ha evolucionado a una programación por módulos de Javascript, 
 esto lo hace más amigable al desarrollador a la hora de implementarlo para
 reutilizar el código facilmente, en diversos proyectos.
